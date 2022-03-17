@@ -1,4 +1,4 @@
-## Olá, me chamo gabriel e seja bem-vindo ao meu GitHub!
+## Olá, me chamo Gabriel e seja bem-vindo ao meu GitHub!
 <div align="center">
   <a href="https://github.com/GabrielH1010">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielH1010&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
