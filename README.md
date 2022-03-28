@@ -1,4 +1,5 @@
-## Olá, me chamo Gabriel e seja bem-vindo ao meu GitHub!
+<h1 align="center"> Olá, me chamo Gabriel e seja bem-vindo ao meu GitHub! </h1>
+
 ---
 <div align="center">
   <a href="https://github.com/GabrielH1010">
