@@ -18,5 +18,5 @@
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
  <div align="center" style="display: inline_block"><br>
-   <a href="https://github.com/GabrielH1010">Meu portfólio</a>
+   <a href="https://myportfolio-home.vercel.app/">Meu portfólio</a>
 </div>
